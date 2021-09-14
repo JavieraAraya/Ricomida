@@ -1,0 +1,45 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+h2{
+    font-family: 'Lobster', cursive;
+}
+ .receta{
+     color: #373A3C;
+ }
+
+ .logo{
+    font-family: 'Lobster', cursive;
+ }
+ h1 h3{
+     font-size: 2.5em;
+     font-weight: 700;
+ }
+ h4{
+     font-size: 2em;
+     font-weight: 400;
+ }
+
+ h6{
+     font-size: 1.25em;
+     font-weight: 700;
+ }
+
+.carousel-indicators{
+    top: 200px;
+}
+
+ .carousel-indicators li{
+     width: 10px;
+     height: 10px;
+     border-radius: 50%;
+     background-color: #DDDDDD;
+     background-color: #373A3C;
+      }
+      
+.carousel-indicators .active {
+        background-color: #373A3C;
+      }
+ 
+ 
